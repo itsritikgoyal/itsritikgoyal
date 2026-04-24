@@ -1,6 +1,6 @@
 # Hi, I'm Ritik Goyal 👋
 
-Automation Engineer with 3.5+ years of experience building scalable automation solutions and transitioning into AI-driven systems using Python and LLMs.
+Automation Engineer with 3.5+ years of experience building scalable automation solutions and transitioning into AI-powered automation  systems using Python and LLMs.
 
 ---
 
