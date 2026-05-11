@@ -34,8 +34,11 @@ AI-powered email classification system using Gmail API + LLMs
 🔹 **AI Invoice Processor**
 Extracts structured data from invoices using OCR + AI
 
-🔹 **Contact Book (CLI)**
+🔹 **Contact Book (Flask API)**
 Python-based contact management system with CRUD + JSON storage
+
+🔹 **AI Content Creator**
+AI-powered Linkedin Content management system using Gmail API + LLMs + OPENAI API + Human in Loop assistance
 
 ---
 
